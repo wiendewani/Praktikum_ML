@@ -17,11 +17,11 @@ Terdapat 2 model yang telah dilakukan percobaan
 
 <h3>Model 1</h3>
 Arsitektur model :
-![Model 1](image/model_1.jpeg)
+![alt text](https://github.com/wiendewani/Praktikum_ML/blob/main/image/model_1.jpeg?raw=true)
 
 <h3>Model 2</h3>
 Arsitektur model :
-![Model 2](image/model_2.jpeg)
+![Model 2](https://github.com/wiendewani/Praktikum_ML/blob/main/image/model_2.jpeg?raw=true)
 
 <h3>Kendala</h3> 
 
