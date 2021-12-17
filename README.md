@@ -42,36 +42,19 @@ Data dibagi menjadi 2 yaitu train dan val dengan ratio 8:1.9:0.1
 
 
 
-Terdapat 2 model yang telah dilakukan percobaan
+Setelah melakukan percobaan didapatkan hasil model yang terbaik menggunakan <b>MobileNetV2</b>
 
-<h3>Model 1</h3>
-Arsitektur model :
-![image](https://user-images.githubusercontent.com/48399925/144560582-c4c8972c-61bb-4781-80a4-b95fb7a4666f.png)
 
-Hasil Accuracy
-![image](https://user-images.githubusercontent.com/48399925/144560430-1b2a5a67-d663-412f-ab9c-f3ce8147356f.png)
 
-Hasil Loss
-![image](https://user-images.githubusercontent.com/48399925/144560618-8c3a1726-8ae8-45bc-8ed7-050a73dd8705.png)
+Hasil Accuracy dan Loss
+
+![image](https://user-images.githubusercontent.com/48399925/146616456-d60f291f-d04b-4285-a273-a4de430014ee.png)
+
 
 Hasil Evaluasi 
-![image](https://user-images.githubusercontent.com/48399925/144560751-c86b66de-eaaf-422b-a4c0-7a443607750f.png)
+![image](https://user-images.githubusercontent.com/48399925/146616431-ea5c691f-b78b-498d-b005-829efe286b4a.png)
 
 
-
-<h3>Model 2</h3>
-Arsitektur model :
-![image](https://user-images.githubusercontent.com/48399925/144563672-f797d896-7472-413a-be0b-dc7d7bf5e0e3.png)
-
-
-Hasil Accuracy
-![image](https://user-images.githubusercontent.com/48399925/144563741-05de396d-66e0-40a3-9df4-6e05901880e3.png)
-
-Hasil Loss
-![image](https://user-images.githubusercontent.com/48399925/144563766-3dbd938b-d7c6-40d5-9223-4a6770b80da8.png)
-
-Hasil Evaluasi 
-![image](https://user-images.githubusercontent.com/48399925/144563797-dc0e701c-a934-4dc7-be89-e4c68ccb8396.png)
 
 
 
